@@ -45,7 +45,7 @@ though I also plan to make small indie games as a side projeect.
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,mint,debian,windows&theme=dark&perline=4)](https://skillicons.dev)
 
-### Other Accounts 📫
+### Other Accounts(w/ clickeable icons) 📫
 
 You can find and get touch with me on these accounts!
 
