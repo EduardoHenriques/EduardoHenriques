@@ -54,5 +54,7 @@ You can find and get touch with me on these accounts!
 [![TWITTER](https://skillicons.dev/icons?i=twitter)](https://twitter.com/TheSweeper14)
 
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-henriques-098935270/)
+
+**Bonus: you can add me on Discord as well(sweeper_96)!
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
