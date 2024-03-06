@@ -55,6 +55,6 @@ You can find and get touch with me on these accounts!
 
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-henriques-098935270/)
 
-**Bonus: you can add me on Discord as well(sweeper_96)!
+**Bonus: I'm sweeper_96 on Discord, you can add me if you wish!**
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
