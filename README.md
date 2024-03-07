@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eduardo Henriques. I'm a Software Engineer from Portugal and I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning,
+I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning,
 though I also plan to make small indie games as a side projeect.  
 
 
