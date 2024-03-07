@@ -43,9 +43,15 @@ though I also plan to make small indie games as a side projeect.
 
 ### Operating Systems 🖥️
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,mint,debian,windows&theme=dark&perline=4)](https://skillicons.dev)
+- Know/Using
 
-### Other Accounts(w/ clickeable icons) 📫
+[![OS2](https://skillicons.dev/icons?i=ubuntu,mint,debian,windows&theme=dark&perline=4)](https://skillicons.dev)
+
+- Learning/Want to learn
+
+[![OS1](https://skillicons.dev/icons?i=arch&theme=dark&perline=4)](https://skillicons.dev)
+
+### Other Accounts(w/ clickable icons) 📫
 
 You can find and get touch with me on these accounts!
 
