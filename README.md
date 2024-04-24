@@ -55,12 +55,8 @@ though I also plan to make small indie games as a side projeect.
 
 You can find and get touch with me on these accounts!
 
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:sweeper.diu@gmail.com)
+<sub>**Email: eduardofchenriques@outlook.com**</sub>
 
-[![TWITTER](https://skillicons.dev/icons?i=twitter)](https://twitter.com/TheSweeper14)
-
-[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-henriques-098935270/)
-
-<sub>**Bonus: I'm sweeper_96 on Discord, you can add me if you wish!**</sub>
+<sub>**LinkedIn: https://www.linkedin.com/in/eduardo-henriques-098935270/**</sub>
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
