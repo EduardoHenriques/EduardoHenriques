@@ -58,5 +58,6 @@ You can find and get touch with me on these accounts!
 <sub>**Email: eduardofchenriques@outlook.com**</sub>
 
 <sub>**LinkedIn: eduardo-henriques-098935270**</sub>
+
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
