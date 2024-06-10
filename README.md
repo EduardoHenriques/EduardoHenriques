@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning,
-though I also plan to make small indie games as a side projeect.  
+I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning, though I am also passionate about System Administration.  
 
 
 <!-- ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoHenriques&show_icons=true&include_all_commits=true) -->
