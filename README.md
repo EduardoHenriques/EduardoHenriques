@@ -50,7 +50,7 @@ I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently 
 
 [![OS1](https://skillicons.dev/icons?i=arch&theme=dark&perline=4)](https://skillicons.dev)
 
-### Other Accounts(w/ clickable icons) 📫
+### Other Accounts
 
 You can find and get touch with me on these accounts!
 
