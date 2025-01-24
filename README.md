@@ -52,11 +52,7 @@ I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently 
 
 ### Other Accounts
 
-You can find and get touch with me on these accounts!
-
-<sub>**Email: eduardofchenriques@outlook.com**</sub>
-
-<sub>**LinkedIn: eduardo-henriques-098935270**</sub>
+Shoot me an emai(eduardofchenriques@outlook.com) or message me on LinkedIn(eduardo-henriques-098935270)
 
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
