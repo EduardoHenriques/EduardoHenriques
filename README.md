@@ -4,7 +4,12 @@ I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently 
 
 
 <!-- ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoHenriques&show_icons=true&include_all_commits=true) -->
+### Certificates 🌐
 
+- https://www.udemy.com/certificate/UC-a92d2e76-c07b-4cbc-b49a-37de73377fe3/
+- https://www.udemy.com/certificate/UC-53aae870-b3ae-413d-8c9a-923f3d81830d/
+- https://www.udemy.com/certificate/UC-e7afacb6-a107-41a0-90a0-f4f7725df171/
+- https://www.udemy.com/certificate/UC-0ff35851-887b-41a3-ab9b-c9d893d15990/
 
 ### Programming Languages 🌐
 
