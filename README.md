@@ -13,20 +13,7 @@ I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently 
 
 ### Software & Languages that I use/have used 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,cs,java,matlab,sklearn,tensorflow,pytorch,mysql,mongodb,latex,cmake,docker,kubernetes,ansible,gcp,maven,git&theme=dark&perline=6)](https://skillicons.dev)
-[![SKLEARN](https://skillicons.dev/icons?i=sklearn&theme=dark&perline=5)](https://scikit-learn.org/stable/)
-[![TF](https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=5)](https://www.tensorflow.org/)
-[![PYTORCH](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=5)](https://pytorch.org/)
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=5)](https://www.microsoft.com/en-us/sql-server)
-[![MONGO](https://skillicons.dev/icons?i=mongodb&theme=dark&perline=5)](https://www.mongodb.com/)
-[![LATEX](https://skillicons.dev/icons?i=latex&theme=dark&perline=5)](https://www.latex-project.org/)
-[![CMAKE](https://skillicons.dev/icons?i=cmake&theme=dark&perline=5)](https://cmake.org/)
-[![DOCKER](https://skillicons.dev/icons?i=docker&theme=dark&perline=5)](https://www.docker.com/)
-[![KUBERNETES](https://skillicons.dev/icons?i=kubernetes&theme=dark&perline=5)](https://kubernetes.io/)
-[![ANSIBLE](https://skillicons.dev/icons?i=ansible&theme=dark&perline=5)](https://www.ansible.com/)
-[![GCP](https://skillicons.dev/icons?i=gcp&theme=dark&perline=5)](https://cloud.google.com/)
-[![MAVEN](https://skillicons.dev/icons?i=maven&theme=dark&perline=5)](https://maven.apache.org/)
-[![GIT](https://skillicons.dev/icons?i=git&theme=dark&perline=5)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,cs,java,matlab,sklearn,tensorflow,pytorch,mysql,mongodb,latex,cmake,docker,kubernetes,ansible,gcp,maven,git&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Operating Systems 🖥️
 
