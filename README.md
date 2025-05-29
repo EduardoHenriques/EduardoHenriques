@@ -27,9 +27,11 @@ Below are some of the professional certifications I've completed:
 - ☁️ **[Azure Deep Dive: Complete Virtual Machine (VM) Course](https://www.udemy.com/certificate/UC-0ff35851-887b-41a3-ab9b-c9d893d15990/)**  
   _Issued: May 2025 · Udemy_
 
-### Other Accounts
+### 📫 Get in Touch
 
-Shoot me an emai(eduardofchenriques@outlook.com) or message me on LinkedIn(eduardo-henriques-098935270)
+Feel free to reach out:
 
+- 📧 [eduardofchenriques@outlook.com](mailto:eduardofchenriques@outlook.com)
+- 🔗 [Eduardo Henriques](https://www.linkedin.com/in/eduardo-henriques-098935270)
 ---
 Credits: [tandpfun](https://github.com/tandpfun)
