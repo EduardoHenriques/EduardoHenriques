@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning, though I am also passionate about System Administration.  
+Hi! I'm Eduardo Henriques, a Software Engineer from Portugal, currently finishing my Master's in Data Science and Machine Learning. I'm also passionate about System Administration and back-end development.
+
+I've worked on building applications, automating ETL pipelines, managing databases, and creating dashboards. Right now, I'm especially focused on AI, cloud computing, and developing scalable backend systems.
 
 
 ### Tools, Libraries & Languages that I use/have used 🛠️
