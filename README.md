@@ -3,15 +3,7 @@
 I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently studying to get my Master's Degree. I'm specializing in data science and machine learning, though I am also passionate about System Administration.  
 
 
-<!-- ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoHenriques&show_icons=true&include_all_commits=true) -->
-
-
-
-
-
-
-
-### Software & Languages that I use/have used 🛠️
+### Tools, Libraries & Languages that I use/have used 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,cs,java,matlab,sklearn,tensorflow,pytorch,mysql,mongodb,latex,cmake,docker,kubernetes,ansible,gcp,maven,git&theme=dark&perline=10)](https://skillicons.dev)
 
