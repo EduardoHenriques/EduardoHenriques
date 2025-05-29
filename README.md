@@ -13,7 +13,7 @@ I'm Eduardo Henriques, and I'm a Software Engineer from Portugal! I'm currently 
 
 ### Software & Languages that I use/have used 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,cs,java,matlab&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,cs,java,matlab,sklearn,tensorflow,pytorch,mysql,mongodb,latex,cmake,docker,kubernetes,ansible,gcp,maven,git&theme=dark&perline=6)](https://skillicons.dev)
 [![SKLEARN](https://skillicons.dev/icons?i=sklearn&theme=dark&perline=5)](https://scikit-learn.org/stable/)
 [![TF](https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=5)](https://www.tensorflow.org/)
 [![PYTORCH](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=5)](https://pytorch.org/)
